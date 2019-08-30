@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/from_udpipe/*
+data/to_udpipe/*
+data/csv/*
+data/models/*
+*.htm
+*.zip
+*.csv
+*.html
+*.unl
+*.Rproj
