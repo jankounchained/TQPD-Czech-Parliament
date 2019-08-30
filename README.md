@@ -17,5 +17,5 @@
 ![alt text](https://raw.githubusercontent.com/supplyandcommand/TQPD-Czech-Parliament/master/plots/CZpar_5000.PNG)
 
 
-Paper introducing the novelty, transience and resonance measures: [Barron, Huang, Spang & DeDeo (2018)](https://www.pnas.org/content/115/18/4607).
-Thanks to [Malte Lau Petersen](https://gitlab.com/maltelau)!
+Paper introducing the novelty, transience and resonance measures: [Barron, Huang, Spang & DeDeo (2018)](https://www.pnas.org/content/115/18/4607).  
+Many thanks to [Malte Lau Petersen](https://gitlab.com/maltelau)!
