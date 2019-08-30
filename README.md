@@ -1,5 +1,5 @@
 # TQPD-Czech-Parliament
-[Towards quantifying parliamentary discourse](https://drive.google.com/file/d/1xJkmF63_oAZiWSHnZFLlm59z7yUaB0KC/view?usp=sharing) (2019) - code. Older versions can be found [here](https://github.com/supplyandcommand/CZpar).
+[Towards quantifying parliamentary discourse](https://drive.google.com/file/d/1xJkmF63_oAZiWSHnZFLlm59z7yUaB0KC/view?usp=sharing) (2019) - updated repository. Older versions can be found [here](https://github.com/supplyandcommand/CZpar).
 
 ### What's in here
   * code to scrape 9 years of Czech parliamentary discussion, consisting of 384,430 speeches. Scraped from: http://www.psp.cz/eknih/
